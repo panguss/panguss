@@ -7,9 +7,10 @@ Python 3.10, FastAPI, PostgreSQL, vuejs 3.0
 Изучаю Docker, redis
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Проекты,которыми+я+горжусь)](https://git.io/typing-svg)
-
 Мой бекенд, написанный для компании Авантюра, сеть квестов Екатеринбурга - https://gitlab.com/panguss/bank_backend.git
 
-Мой pet-project - онлайн биржа (стоимость валют выставляется администратором) Frontend - https://gitlab.com/panguss/forecast_frontend.git, Backend - https://gitlab.com/panguss/forecast.git
+Мой pet-project - онлайн биржа (стоимость валют выставляется администратором) 
+Frontend - https://gitlab.com/panguss/forecast_frontend.git 
+Backend - https://gitlab.com/panguss/forecast.git
 
 Есть опыт поддержки рабочего проекта на php laravel с ~5000 юзерами, исправление багов и добавление новых фич
