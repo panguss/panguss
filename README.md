@@ -4,8 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Мой+стек)](https://git.io/typing-svg) 
 
-Python 3.10, FastAPI, PostgreSQL, vuejs 3.0 \n
-Изучаю Docker, redis
+Python 3.10, FastAPI, PostgreSQL, vuejs 3.0, SQLalchemy, git, linux
+
+Изучаю Docker
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Проекты,которыми+я+горжусь)](https://git.io/typing-svg)
