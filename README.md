@@ -3,10 +3,12 @@
 <h3 align="center">Информационные системы и технологии, амбассадор Альфа-Банка</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Мой+стек)](https://git.io/typing-svg) 
+
 Python 3.10, FastAPI, PostgreSQL, vuejs 3.0
 Изучаю Docker, redis
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Проекты,которыми+я+горжусь)](https://git.io/typing-svg)
+
 Мой бекенд, написанный для компании Авантюра, сеть квестов Екатеринбурга - https://gitlab.com/panguss/bank_backend.git
 
 Мой pet-project - онлайн биржа (стоимость валют выставляется администратором) 
