@@ -2,8 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Информационные системы и технологии, амбассадор Альфа-Банка</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Мой+стек)](https://git.io/typing-svg)
-Python 3.10, FastAPI, PostgreSQL, vuejs 3.0
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Мой+стек)](https://git.io/typing-svg) Python 3.10, FastAPI, PostgreSQL, vuejs 3.0
 Изучаю Docker, redis
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Проекты,которыми+я+горжусь)](https://git.io/typing-svg)
