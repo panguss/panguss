@@ -7,6 +7,7 @@
 Python 3.10, FastAPI, PostgreSQL, vuejs 3.0
 Изучаю Docker, redis
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Проекты,которыми+я+горжусь)](https://git.io/typing-svg)
 
 Мой бекенд, написанный для компании Авантюра, сеть квестов Екатеринбурга - https://gitlab.com/panguss/bank_backend.git
